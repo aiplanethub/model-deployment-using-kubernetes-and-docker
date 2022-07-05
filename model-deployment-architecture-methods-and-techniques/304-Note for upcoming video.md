@@ -1,1 +1,1 @@
-<p>In the upcoming video, don&#39;t worry if you don&#39;t make it in one go. Give some time you will be able to make it as you go along.</p>
+<p>In the upcoming video, don't worry if you don't make it in one go. Give it some time, and you will be able to make it as you go along.</p>
