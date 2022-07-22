@@ -1,4 +1,4 @@
-| Tools/Algorithm| Supported Serialization| Deployment Method|
+| Tools/Algorithm | Supported Serialization | Deployment Method |
 | --- | --- | --- |
 | scikit-learn| pickle | python, flask, spark scikit |
 | XGBoost| booster, pickle or spark native | XGboost4j, flask, custom java, spark |
