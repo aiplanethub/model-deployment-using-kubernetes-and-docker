@@ -32,16 +32,5 @@
 			<td style="text-align:center">H2O</td>
 			<td style="text-align:center">POJO, MOJO</td>
 			<td style="text-align:center">Java, Python, Flask</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
 	</tbody>
 </table>
